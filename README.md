@@ -1,6 +1,9 @@
-# terraform-module-certbot
+# Terraform Module certbot
 
 Terraform module which installs certbot.
+
+This is a terraform replacement for [Ansible Role certbot](https://github.com/l-with/ansible-role-certbot).
+
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
